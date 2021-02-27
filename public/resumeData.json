@@ -95,7 +95,7 @@
     "projects": [
       {
         "title":"First Portfolio",
-        "category":"First Portfolio",
+        "category":"A static portfolio that was made with HTML/CSS and hosted with GitHub.",
         "image":"portfolio1.jpg",
         "url":"https://justin-yun.github.io/Profile/"
       }
