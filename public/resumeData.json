@@ -94,10 +94,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.youtube.com"
+        "title":"First Portfolio",
+        "category":"First Portfolio",
+        "image":"portfolio1.jpg",
+        "url":"https://justin-yun.github.io/Profile/"
       }
     ]
   },
