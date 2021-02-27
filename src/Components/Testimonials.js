@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 class Testimonials extends Component {
   render() {
 
@@ -36,3 +37,4 @@ class Testimonials extends Component {
 }
 
 export default Testimonials;
+
