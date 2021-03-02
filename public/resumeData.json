@@ -10,9 +10,9 @@
     "phone": "",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Denver",
+      "state":"Colorado",
+      "zip": ""
     },
     "website": "https://justin-yun.github.io/Profile/",
     "resumedownload":"https://drive.google.com/file/d/15Twe_lBSdjgTr9GYp_3Tk9zCGpetQL7A/view?usp=sharing",
@@ -24,7 +24,7 @@
       },
       {
         "name":"google",
-        "url":"https://www.google.com",
+        "url":"https://drive.google.com/file/d/15Twe_lBSdjgTr9GYp_3Tk9zCGpetQL7A/view",
         "className":"fa fa-google-plus"
       },
       {
@@ -49,7 +49,7 @@
         "company":"Travelport",
         "title":"Quality Analyst Engineer ",
         "years":"July 2020 - Present",
-        "description":"Maintained and developed simulators for testing purposes. The simulators were based off of MFC and Visual C++. Provided documentation for the simulators and features that were implemented."
+        "description":"Developed simulators for testing in-house software using Visual C++ and MFC. Created and maintained documentation for our in-house applications and features that were implemented. Collaborated with other dev teams for solving various types of problems."
       },
       {
         "company":"Travelport",
@@ -98,7 +98,26 @@
         "category":"A static portfolio that was made with HTML/CSS and hosted with GitHub.",
         "image":"portfolio1.JPG",
         "url":"https://justin-yun.github.io/Profile/"
+      },
+      {
+        "title":"Virtual Reality Drone Game",
+        "category":"Control a physical drone with VR",
+        "image":"unity.png",
+        "url":"https://github.com/Drone-Gang/ros_final_project" 
+      },
+      {
+        "title":"Virtual Reality Drone Game",
+        "category":"Unity GitHub Link",
+        "image":"unity.png",
+        "url": "https://github.com/Drone-Gang/unity_final_v1_done"     
+      },
+      {
+        "title":"Virtual Reality Drone Game",
+        "category":"Demo of Project",
+        "image":"youtube.jpg",
+        "url": "https://www.youtube.com/watch?v=fTxk4ST1mDs&feature=emb_logo"     
       }
+      
     ]
   },
   "testimonials":{
