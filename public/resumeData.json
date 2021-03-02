@@ -94,6 +94,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"GitHub Link",
+        "category":"",
+        "image":"github.png",
+        "url":"https://github.com/Justin-Yun"
+      },
+      {
         "title":"First Portfolio",
         "category":"A static portfolio that was made with HTML/CSS and hosted with GitHub.",
         "image":"portfolio1.JPG",
@@ -116,8 +122,25 @@
         "category":"Demo of Project",
         "image":"youtube.jpg",
         "url": "https://www.youtube.com/watch?v=fTxk4ST1mDs&feature=emb_logo"     
+      },
+      {
+        "title":"Pokemon Catan",
+        "category":"Made with QT Studio and C++",
+        "image":"pokemon.png",
+        "url": "https://github.com/Justin-Yun/Pokemon-Project"     
+      },
+      {
+        "title":"Apple Clicker",
+        "category":"Click the Apple to collect them and spend apples on rewards.",
+        "image":"apple.png",
+        "url": "https://github.com/Justin-Yun/clickersanonymousCU.github.io"     
+      },
+      {
+        "title":"Facebook Messenger Bot",
+        "category":"Automatically send messages for you.",
+        "image":"fb.png",
+        "url": "https://github.com/Justin-Yun/clickersanonymousCU.github.io"     
       }
-      
     ]
   },
   "testimonials":{
