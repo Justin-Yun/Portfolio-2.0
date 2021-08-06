@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Justin Yun",
-    "occupation":"Quality Analyst Engineer",
+    "occupation":"Software Developer Engineer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"I graduated from University of Colorado Boulder with a B.A in Computer Science. I'm currently working as a Quality Analyst Engineer at Travelport.",
+    "bio":"I graduated from University of Colorado Boulder with a B.A in Computer Science. I'm currently working as a Software Dev Engineer at Travelport.",
     "contactmessage":"Contact (Section needs to be updated)",
     "email": "justin.yun@colorado.edu",
     "phone": "",
@@ -47,9 +47,9 @@
     "work":[
       {
         "company":"Travelport",
-        "title":"Quality Analyst Engineer ",
+        "title":"Software Developer Engineer in Test ",
         "years":"July 2020 - Present",
-        "description":"Developed simulators for testing in-house software using Visual C++ and MFC. Created and maintained documentation for our in-house applications and features that were implemented. Collaborated with other dev teams for solving various types of problems."
+        "description":"Developed simulators for testing in-house software using Visual C++ and MFC. Created and maintained documentation for our in-house applications and features that were implemented. Collaborated with other dev teams for solving various types of problems. Reduced technical debt of the compile time errors by 78% within the proprietary built Quality Performance load injection tools."
       },
       {
         "company":"Travelport",

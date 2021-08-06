@@ -1,0 +1,3 @@
+npm run build (Build)
+npm start (Test on local)
+firebase deploy (Deploy to firebase)
