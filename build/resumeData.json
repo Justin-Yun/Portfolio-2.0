@@ -4,8 +4,8 @@
     "occupation":"Software Developer Engineer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"I graduated from University of Colorado Boulder with a B.A in Computer Science. I'm currently working as a Software Dev Engineer at Travelport.",
-    "contactmessage":"Contact (Section needs to be updated)",
+    "bio":"Hi there! I am a recent graduate from the University of Colorado Boulder, where I earned my Bachelor's degree in Computer Science. I am currently employed as a Software Engineer at Travelport, where I am able to utilize my knowledge and skills in the field to make a positive impact.",
+    "contactmessage":"Contact Currently Not Supported",
     "email": "justin.yun@colorado.edu",
     "phone": "",
     "address":{
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://justin-yun.github.io/Profile/",
-    "resumedownload":"https://drive.google.com/file/d/15Twe_lBSdjgTr9GYp_3Tk9zCGpetQL7A/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1_hkTuC-2fBUgo0eDZdhO-hWpdKaOpLc2/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -24,7 +24,7 @@
       },
       {
         "name":"google",
-        "url":"https://drive.google.com/file/d/15Twe_lBSdjgTr9GYp_3Tk9zCGpetQL7A/view",
+        "url":"https://drive.google.com/file/d/1_hkTuC-2fBUgo0eDZdhO-hWpdKaOpLc2/view?usp=sharing",
         "className":"fa fa-google-plus"
       },
       {
@@ -41,27 +41,27 @@
         "school":"University of Colorado Boulder",
         "degree":"Computer Science",
         "graduated":"May 2020",
-        "description":"Cumulative GPA: 3.1 || Major GPA: 3.318"
+        "description":"GPA: 3.318"
       }
     ],
     "work":[
       {
         "company":"Travelport",
-        "title":"Software Developer Engineer in Test ",
+        "title":"Software Developer Engineer",
         "years":"July 2020 - Present",
-        "description":"Developed simulators for testing in-house software using Visual C++ and MFC. Created and maintained documentation for our in-house applications and features that were implemented. Collaborated with other dev teams for solving various types of problems. Reduced technical debt of the compile time errors by 78% within the proprietary built Quality Performance load injection tools."
+        "description":"I led the development of a common framework for test cases and implemented a GitHub branching model for team collaboration. I created load-injection simulators for the Performance Tools Team using Visual C++ and MFC. I developed applications using Java, Spring Boot, and GraphQL, with a focus on leveraging GraphQL over Spring Boot's built-in functions. I successfully reduced technical debt by 78% through focused efforts. I coordinated and executed the migration of projects from TFS to GitHub and implemented a CI/CD pipeline using GitHub Actions. I established an automated workflow for building and deploying internal tools. I am skilled in working with agile teams and certified in SAFe (Scaled Agile Framework)."
       },
       {
         "company":"Travelport",
-        "title":"Quality Assurance Intern",
+        "title":"Software Developer Intern",
         "years":"May 2019 - August 2019",
-        "description":"Developed functions for optimizing automation testing by compressing input files such as XML. Enhanced and updated front-end of Travelport's applications. Updated Travelport's automated test schedules and results for faster load times."
+        "description":"I developed and enhanced web portals for automated test scheduling and results utilizing ASP Classic, HTML, and CSS, resulting in a 70% reduction in log loading time, optimized automation testing processes by creating a C++ function to modify XML files resulting in an 80% decrease in test execution time, improved user experience by implementing Bootstrap to upgrade the user interface for Travelport's existing codebase, and managed server infrastructure including creating an Excel sheet to track specifications for old and new servers and submitting ServiceNow tickets for each server machine."
       },
       {
         "company":"University of Colorado Boulder",
         "title": "Student Technician (IT)",
         "years": "June 2017 - May 2020",
-        "description": "Responsible for maintaining over 500 classrooms on CU Boulder campus. Inspect classrooms to ensure proper functionality of electronic equipment."
+        "description": "I managed the maintenance and upkeep of over 500 classrooms at CU Boulder, ensuring proper functionality of all electronic equipment by conducting regular inspections to guarantee equipment is in optimal working condition, providing prompt assistance to professors experiencing technical difficulties, expertly installing and configuring a wide range of electronic equipment including projectors, microphones, speakers, DVD players, TV's, switchers, and transmitters, and overseeing lab access for faculty and students, ensuring seamless access to necessary resources."
       }
     ],
     "skills":[
