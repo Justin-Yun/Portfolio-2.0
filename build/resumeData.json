@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Justin Yun",
-    "occupation":"Software Developer Engineer",
+    "occupation":"Software Developer Engineer II",
     "description":"",
     "image":"profilepic.jpg",
     "bio":"Hi there! I am a recent graduate from the University of Colorado Boulder, where I earned my Bachelor's degree in Computer Science. I am currently employed as a Software Engineer at Travelport, where I am able to utilize my knowledge and skills in the field to make a positive impact.",
@@ -9,7 +9,7 @@
     "email": "justin.yun@colorado.edu",
     "phone": "",
     "address":{
-      "street":"(Your Street)",
+      "street":"",
       "city":"Denver",
       "state":"Colorado",
       "zip": ""
@@ -41,13 +41,13 @@
         "school":"University of Colorado Boulder",
         "degree":"Computer Science",
         "graduated":"May 2020",
-        "description":"GPA: 3.318"
+        "description":""
       }
     ],
     "work":[
       {
         "company":"Travelport",
-        "title":"Software Developer Engineer",
+        "title":"Software Developer Engineer II",
         "years":"July 2020 - Present",
         "description":"I led the development of a common framework for test cases and implemented a GitHub branching model for team collaboration. I created load-injection simulators for the Performance Tools Team using Visual C++ and MFC. I developed applications using Java, Spring Boot, and GraphQL, with a focus on leveraging GraphQL over Spring Boot's built-in functions. I successfully reduced technical debt by 78% through focused efforts. I coordinated and executed the migration of projects from TFS to GitHub and implemented a CI/CD pipeline using GitHub Actions. I established an automated workflow for building and deploying internal tools. I am skilled in working with agile teams and certified in SAFe (Scaled Agile Framework)."
       },
